@@ -1,0 +1,4 @@
+TensorFlow
+numpy
+pandas
+pytorch
